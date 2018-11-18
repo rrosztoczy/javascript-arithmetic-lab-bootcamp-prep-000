@@ -2,14 +2,14 @@ function add(){
   return a + b 
 }
 
-function add(){
+function subtract(){
   return a + b 
 }
 
-function add(){
-  return a + b 
+function multiply(){
+  return a * b 
 }
 
-function add(){
-  return a + b 
+function divide(){
+  return a / b 
 }
